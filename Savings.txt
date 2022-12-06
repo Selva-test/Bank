@@ -1,3 +1,5 @@
-This is my savings account
 
-I have new account in the savings dept
+public void empName(){
+system.out.println("Employee name is Aravind");
+} 
+
