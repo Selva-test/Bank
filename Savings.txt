@@ -2,4 +2,4 @@
 public void empName(){
 system.out.println("Employee name is Aravind");
 } 
-
+Output: Employee name is Aravind
